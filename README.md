@@ -41,3 +41,11 @@ This project contains a series of experiments focused on the Design and Analysis
 - Analyze time and space complexities.
 - Learn to choose the right algorithm for a given problem.
 - Gain hands-on experience in solving computational problems effectively.
+   ## Contact
+
+If you have any questions, suggestions, or just want to connect, feel free to reach out!
+
+- **Email**: prathameshaj2004@gmail.com
+- **LinkedIn**: www.linkedin.com/in/prathamesh-jadhav30
+- Thank you for visiting my repository. Happy coding!
+
